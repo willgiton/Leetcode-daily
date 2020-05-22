@@ -1,7 +1,3 @@
 # Leetcode-daily
 
-<iframe height=498 width=510 src="https://www.bilibili.com/video/BV1ZK4y147Ay/"> 
-
-<video id="video" controls="" preload="none" poster="http://img.blog.fandong.me/2017-08-26-Markdown-Advance-Video.jpg">
-      <source id="mp4" src="http://img.blog.fandong.me/2017-08-26-Markdown-Advance-Video.mp4" type="video/mp4">
-      </video>
+<iframe src="//player.bilibili.com/player.html?aid=925704133&bvid=BV1BT4y1u739&cid=193200068&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
